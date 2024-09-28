@@ -1,0 +1,13 @@
+# sdk-node Configs
+npmName: "@rapradiptya/sdk-node-whatsapp-api"
+npmRepository: "https://npm.pkg.github.com"
+snapshot: false
+supportsES6: true
+withInterfaces: true
+
+# sdk-go Configs
+packageName: "SdkWhatsappWebMultiDevice"
+
+# sdk-php Configs
+composerPackageName: "SdkWhatsappWebMultiDevice"
+invokerPackage: "SdkWhatsappWebMultiDevice"
